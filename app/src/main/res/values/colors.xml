@@ -5,6 +5,19 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
+    <color name="black">#C4D520</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="toolbar_color">#CACA20</color>
+    <color name="nav_header">#283FBF</color>
+
+    <color name="dashboard_color">#1E41CF</color>
+    <color name="income_color">#CEA11B</color>
+    <color name="expanse_color">#E1165B</color>
+
+    <color name="date_color">#FF270648</color>
+
+    <color name="expense_amount">#FFEC1D06</color>
+
 </resources>
